@@ -1,0 +1,1 @@
+ C:\\Users\\drabh\\OneDrive\\Documents\\soulscript\\.dart_tool\\flutter_build\\5e55734935e57008815b3c21300e4425\\native_assets.yaml: 

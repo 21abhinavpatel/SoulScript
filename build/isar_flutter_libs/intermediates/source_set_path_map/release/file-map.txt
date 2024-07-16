@@ -1,0 +1,12 @@
+dev.isar.isar_flutter_libs-core-1.6.0-0 C:\Users\drabh\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\res
+dev.isar.isar_flutter_libs-jetified-window-java-1.0.0-beta04-1 C:\Users\drabh\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+dev.isar.isar_flutter_libs-jetified-annotation-experimental-1.1.0-2 C:\Users\drabh\.gradle\caches\transforms-3\3d2f03fc996c2e0aa3dee5cfa3002cd1\transformed\jetified-annotation-experimental-1.1.0\res
+dev.isar.isar_flutter_libs-jetified-window-1.0.0-beta04-3 C:\Users\drabh\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res
+dev.isar.isar_flutter_libs-main-4 C:\Users\drabh\AppData\Local\Pub\Cache\hosted\pub.dev\isar_flutter_libs-4.0.0-dev.14\android\src\main\res
+dev.isar.isar_flutter_libs-release-5 C:\Users\drabh\AppData\Local\Pub\Cache\hosted\pub.dev\isar_flutter_libs-4.0.0-dev.14\android\src\release\res
+dev.isar.isar_flutter_libs-pngs-6 C:\Users\drabh\OneDrive\Documents\soulscript\build\isar_flutter_libs\generated\res\pngs\release
+dev.isar.isar_flutter_libs-resValues-7 C:\Users\drabh\OneDrive\Documents\soulscript\build\isar_flutter_libs\generated\res\resValues\release
+dev.isar.isar_flutter_libs-rs-8 C:\Users\drabh\OneDrive\Documents\soulscript\build\isar_flutter_libs\generated\res\rs\release
+dev.isar.isar_flutter_libs-mergeReleaseResources-9 C:\Users\drabh\OneDrive\Documents\soulscript\build\isar_flutter_libs\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.isar.isar_flutter_libs-mergeReleaseResources-10 C:\Users\drabh\OneDrive\Documents\soulscript\build\isar_flutter_libs\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.isar.isar_flutter_libs-merged_res-11 C:\Users\drabh\OneDrive\Documents\soulscript\build\isar_flutter_libs\intermediates\merged_res\release

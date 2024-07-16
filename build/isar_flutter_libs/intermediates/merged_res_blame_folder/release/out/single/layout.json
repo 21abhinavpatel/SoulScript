@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "dev.isar.isar_flutter_libs-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "dev.isar.isar_flutter_libs-core-1.6.0-0:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "dev.isar.isar_flutter_libs-merged_res-10:/layout/custom_dialog.xml",
+        "source": "dev.isar.isar_flutter_libs-core-1.6.0-0:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "dev.isar.isar_flutter_libs-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "dev.isar.isar_flutter_libs-core-1.6.0-0:/layout/notification_template_part_chronometer.xml"
+    }
+]

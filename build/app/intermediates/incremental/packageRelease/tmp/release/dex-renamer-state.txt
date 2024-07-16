@@ -1,0 +1,4 @@
+#Sat Jul 13 09:33:11 IST 2024
+base.0=C\:\\Users\\drabh\\OneDrive\\Documents\\soulscript\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
